@@ -1,0 +1,9 @@
+/extras/*
+/board.build/*
+/board.dist/*
+/board.onefile-build/*
+/__pycache__/*
+/.mypy_cache/*
+README.txt
+*.bat
+*.exe
